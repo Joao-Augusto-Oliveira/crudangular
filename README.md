@@ -1,27 +1,49 @@
-# CrudAngular
+<div align="center">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+<h3>
 
-## Development server
+Projeto em desenvolvimentno do Curso CRUD com Angular e Spring promovido pela [Loiane].
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+</h3> 
 
-## Code scaffolding
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br>
 
-## Build
+## 📚 **Sobre**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Aplicação consiste num CRUD Angular + Spring.
 
-## Running unit tests
+#### ✔️ Aulas realizadas
+- [x] CRUD Angular + Spring | Introdução
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
 
-## Running end-to-end tests
+### 🚀 **Mão na massa**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+# Clone este repositório
+$ git clone https://github.com/Joao-Augusto-Oliveira/crudangular
 
-## Further help
+# Acesse a pasta do projeto no terminal/cmd
+$ cd crudangular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ ng serve
+
+```
+
+<br>
+<br>
+
+<h3 align="center">
+Feito com 💜 por <a href="https://www.linkedin.com/in/joão-augusto-oliveira-dos-santos-9b0693195">João Augusto</a>
+<br><br> 
+</h3>
+
+<!-- Links -->
+
+[Loiane]: https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY
