@@ -15,7 +15,10 @@ Projeto em desenvolvimentno do Curso CRUD com Angular e Spring promovido pela [L
 Aplicação consiste num CRUD Angular + Spring.
 
 #### ✔️ Aulas realizadas
-- [x] CRUD Angular + Spring | Introdução
+- [x] Introdução
+- [x] Overview do Projeto e Instalando o Angular Material
+- [x] Criando uma Toolbar na Página Principal
+
 
 <br>
 
