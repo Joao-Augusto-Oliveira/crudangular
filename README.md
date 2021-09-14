@@ -4,7 +4,7 @@
 
 Projeto em desenvolvimentno do Curso CRUD com Angular e Spring promovido pela [Loiane].
 
-</h3> 
+</h3>
 
 </div>
 
@@ -15,10 +15,11 @@ Projeto em desenvolvimentno do Curso CRUD com Angular e Spring promovido pela [L
 Aplicação consiste num CRUD Angular + Spring.
 
 #### ✔️ Aulas realizadas
+
 - [x] Introdução
 - [x] Overview do Projeto e Instalando o Angular Material
 - [x] Criando uma Toolbar na Página Principal
-
+- [x] Criando o Módulo de Cursos e Usando Roteamento com Lazy Loading
 
 <br>
 
@@ -49,4 +50,4 @@ Feito com 💜 por <a href="https://www.linkedin.com/in/joão-augusto-oliveira-d
 
 <!-- Links -->
 
-[Loiane]: https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY
+[loiane]: https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY
