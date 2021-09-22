@@ -20,6 +20,7 @@ Aplicação consiste num CRUD Angular + Spring.
 - [x] Overview do Projeto e Instalando o Angular Material
 - [x] Criando uma Toolbar na Página Principal
 - [x] Criando o Módulo de Cursos e Usando Roteamento com Lazy Loading
+- [x] Customizando o Tema do Angular Material
 
 <br>
 
