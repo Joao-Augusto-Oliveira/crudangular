@@ -23,7 +23,7 @@ Aplicação consiste num CRUD Angular + Spring.
 - [x] Customizando o Tema do Angular Material
 - [x] Criando Material Table para Listar Cursos
 - [x] CSS do Material Table e Criando um Módulo App Material
-- [x] Criando um Service no Angular
+- [x] Chamada HTTP Get no Angular e RXJS
 
 <br>
 
