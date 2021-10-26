@@ -24,8 +24,8 @@ Aplicação consiste num CRUD Angular + Spring.
 - [x] Criando Material Table para Listar Cursos
 - [x] CSS do Material Table e Criando um Módulo App Material
 - [x] Chamada HTTP Get no Angular e RXJS
-
-<br>
+- [x] Lista de Cursos: Spinner (Carregando)
+      <br>
 
 ### 🚀 **Mão na massa**
 
