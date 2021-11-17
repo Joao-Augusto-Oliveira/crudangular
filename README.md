@@ -26,6 +26,7 @@ Aplicação consiste num CRUD Angular + Spring.
 - [x] Chamada HTTP Get no Angular e RXJS
 - [x] Lista de Cursos: Spinner (Carregando)
 - [x] Lista de Cursos: Tratamento de Erros e MatDialog
+- [x] Lista de Cursos: Pipe para mostrar ícone
 
 <br>
 
